@@ -10,7 +10,7 @@ interface ResultsDisplayProps {
   isAnalyzing: boolean;
   analysisResult: AnalysisResult | null;
 }
-
+//james
 export const ResultsDisplay: React.FC<ResultsDisplayProps> = ({ 
   isAnalyzing, 
   analysisResult 
