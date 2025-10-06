@@ -1,4 +1,3 @@
-import React from 'react';
 import { DocumentAnalyzer } from './components/DocumentAnalyzer';
 import { Header } from './components/Header';
 
